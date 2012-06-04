@@ -1,0 +1,6 @@
+# This file is optional but will be included as the LAST step in 
+# "awsenv init -". So if you want to specify some custom configuration values or
+# even overwrite some stuff? This is the right place!
+
+# Hint: You might want to export new environment values with export as below...
+# export EC2_REGION=eu-west-1
